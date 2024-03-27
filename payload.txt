@@ -1,0 +1,11 @@
+LED SETUP
+ATTACKMODE HID
+LED ATTACK
+Q GUI r
+QUACK STRING Powershell -C "C:\Users\tjkuh\Downloads\miku.ps1"
+Q ENTER
+
+
+
+
+
